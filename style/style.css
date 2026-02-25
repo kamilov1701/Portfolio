@@ -691,6 +691,12 @@ body.dark-theme {
     left: 370px;
 }
 
+.button_tg_projects {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 /* SERVICES */
 .services__container {
     grid-template-columns: 350px;
